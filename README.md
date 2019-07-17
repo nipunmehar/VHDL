@@ -8,4 +8,4 @@ This repository has the VHDL Codes for the course of Hardware Description Langua
 ## Requirements
 XILINX ISE
 
-### Follow me on GitHub For more and Feel free to contact on nipunmehar10@gmail.com
+### Follow me on GitHub For more and feel free to contact me on nipunmehar10@gmail.com
