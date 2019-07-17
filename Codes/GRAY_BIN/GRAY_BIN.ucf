@@ -1,0 +1,8 @@
+NET "G[3]" LOC = "P21";
+NET "G[2]" LOC = "P27";
+NET "G[1]" LOC = "P29";
+NET "G[0]" LOC = "P35";
+NET "bin[3]" LOC = "P20";
+NET "bin[2]" LOC = "P26";
+NET "bin[1]" LOC = "P28";
+NET "bin[0]" LOC = "P34";

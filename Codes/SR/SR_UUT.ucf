@@ -1,0 +1,4 @@
+NET "S" LOC="P21";
+NET "R" LOC="P27";
+NET "Q" LOC="P20";
+NET "QBAR" LOC="P26";

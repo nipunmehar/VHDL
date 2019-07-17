@@ -1,0 +1,10 @@
+NET "din" LOC="P21";
+NET "reset" LOC="P27";
+NET "dout[7]" LOC="P20";
+NET "dout[6]" LOC="P26";
+NET "dout[5]" LOC="P28";
+NET "dout[4]" LOC="P34";
+NET "dout[3]" LOC="P36";
+NET "dout[2]" LOC="P39";
+NET "dout[1]" LOC="P42";
+NET "dout[0]" LOC="P44";

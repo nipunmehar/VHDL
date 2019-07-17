@@ -1,0 +1,4 @@
+NET "J" LOC="P21";
+NET "K" LOC="P27";
+NET "Q" LOC="P20";
+NET "QB" LOC="P26";

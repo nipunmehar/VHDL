@@ -1,0 +1,5 @@
+NET "reset" LOC="P21";
+NET "count[3]" LOC="P20";
+NET "count[2]" LOC="P26";
+NET "count[1]" LOC="P28";
+NET "count[0]" LOC="P34";
