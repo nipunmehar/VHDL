@@ -1,7 +1,7 @@
 # VHDL
 VHDL Codes
 
-I am Nipun Mehar Bachelor of Technology in Electronics and Communications Engineering (2016-2020) from Indian Institute Of Information Technology, Nagpur.
+I am Nipun Mehar, Bachelor of Technology in Electronics and Communications Engineering (2016-2020) from Indian Institute of Information Technology, Nagpur.
 
 This repository has the VHDL Codes for the course of Hardware Description Languages (ECE 303).
 
